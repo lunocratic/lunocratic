@@ -13,7 +13,7 @@ Hi, I'm Ashok
 
 <pre>
 💻 Student at KL University
-📚 I'm a Discord Bots & Backend developer
+📚 AiMl , Game  And Backend developer
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Data Analysis & Visualization, MERN
 🌱 Learning about Data Science stuff
