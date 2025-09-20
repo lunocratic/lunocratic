@@ -5,20 +5,13 @@ Hi, I'm Ashok
 	</a>
 </h1>
 
-<p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=075F0A&center=true&vCenter=true&width=435&lines=AI+%7C+DS+%7C+ML+Enthusiast;Discord+Bots+%26+Backend+Developer;Love+to+learn+new+things;Interested+in+new+projects" alt="Typing SVG" /></a>
-</p>
+
 
 <hr>
 
 <pre>
 💻 Student at KL University
-📚 AiMl , Game  And Backend developer
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Data Analysis & Visualization, MERN
-🌱 Learning about Data Science stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in AI & ML application development
+📚 Game Dev And Backend developer
 </pre>
 
 # 💻 Tech Stack:
